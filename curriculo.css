@@ -1,18 +1,21 @@
-h2{
+h2 {
     font-style: normal;
-    background-color:cornflowerblue;
+    background-color: cornflowerblue;
     color: black;
-    padding-top:5px
+    padding-top: 5px
 }
-body{
-    font-family:sans-serif;
+
+body {
+    font-family: sans-serif;
     margin-left: auto;
     margin-right: auto;
 }
-#email{
+
+#email {
     text-decoration: underline;
     font-style: italic;
 }
-#cabecalho{
+
+#cabecalho {
     text-align: center;
 }
